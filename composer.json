@@ -1,0 +1,13 @@
+{
+    "license": "MIT",
+    "require": {
+        "newridetech/php-classnames": "^1.0.1"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
