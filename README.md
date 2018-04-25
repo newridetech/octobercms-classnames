@@ -4,6 +4,7 @@ This plugin provides a developer tool to generate complex CSS classnames in
 Twig templates in a way that makes them more readable.
 
 It's a port of https://github.com/JedWatson/classnames but for PHP.
+
 If you want a pure PHP version without plugin, please try: https://github.com/newridetech/php-classnames
 
 Instead of:
