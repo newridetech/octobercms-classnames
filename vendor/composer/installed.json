@@ -1,0 +1,36 @@
+[
+    {
+        "name": "newridetech/php-classnames",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/newridetech/php-classnames.git",
+            "reference": "7f698e9b525d44b30ebb2bbd14ff3a700f99175a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/newridetech/php-classnames/zipball/7f698e9b525d44b30ebb2bbd14ff3a700f99175a",
+            "reference": "7f698e9b525d44b30ebb2bbd14ff3a700f99175a",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~7"
+        },
+        "time": "2018-04-12T11:17:01+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Newride\\Classnames\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Mateusz Charytoniuk",
+                "email": "mateusz.charytoniuk@newride.tech"
+            }
+        ]
+    }
+]
