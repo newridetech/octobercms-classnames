@@ -1,12 +1,20 @@
 {
+    "name": "newride/octobercms-classnames",
+    "type": "october-plugin",
+    "description": "Classnames plugin for October CMS",
+    "homepage": "http://octobercms.com/plugin/newride-classnames",
+    "keywords": ["october", "octobercms", "classnames"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Mateusz Charytoniuk",
+            "email": "mateusz.charytoniuk@newride.tech",
+        }
+    ],
     "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0",
         "newridetech/php-classnames": "^1.0.1"
-    },
-    "require-dev": {
-    },
-    "config": {
-        "preferred-install": "dist"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
